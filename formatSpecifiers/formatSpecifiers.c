@@ -8,7 +8,18 @@ int main() {
 
     printf("Item 1: $%.2f\n", item1);
     printf("Item 2: $%.2f\n", item2);
-    printf("Item 3: $%.2f", item3);
+    printf("Item 3: $%.2f\n", item3);
+
+    const float PI = 3.14159; 
+
+    printf("%f\n", PI);
+
+    int num1 = 11;
+    float num2 = 5;
+
+    float result = num1 / num2;
+
+    printf("%d", result);
 
     return 0;
 }
