@@ -1,0 +1,1 @@
+strcopy(cars[0], "Corolla");
